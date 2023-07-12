@@ -9,6 +9,6 @@ $ apt install git
 $git clone https://github🤦‍♂️.com/LITON-1/RND
 🔰Run script🔰
 cd RND
-python Liton.py
+python V-Crack.py
 
 Note: এটা র‍্যান্ডম টুলস তাই কিছু আইডি লক থাকবে.... এটা স্বাভাবিক 🤦‍♂️
